@@ -12,11 +12,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NODE JS
-- 🌱 I’m currently learning NODE JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+- 👯 I’m looking to collaborate on WEB DEVELOPERS
+
 - 💬 Ask me about WEB DEVELOPMENT
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: https://www.linkedin.com/in/gnanam-r
+
+
 -->
