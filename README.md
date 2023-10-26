@@ -1,4 +1,4 @@
-![linked in img](https://github.com/gnanamr18/gnanamr18/assets/121059807/b441d46d-017d-4cd4-aeaf-1bae935d65b5)
+![linked in img](https://github.com/gnanamr18/gnanamr18/assets/121059807/cdf03040-4d9d-47f0-84fe-3d4597bd1996)
 
 
                                       ### Hi there I am GNANAM RAJAGOPALAN 👋
