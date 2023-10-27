@@ -5,7 +5,7 @@
                                       🔭 I’m currently working on NODE JS
                                       👯 I’m looking to collaborate WITH WEB DEVELOPERS
                                       💬 Ask me about WEB DEVELOPMENT
-                                      📫 How to reach me:![LinkedIn](https://www.linkedin.com/in/gnanam-r/)
+                                      📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gnanam-r/)
 
 
 
