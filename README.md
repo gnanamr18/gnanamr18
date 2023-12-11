@@ -5,7 +5,7 @@
                                       🔭 I’m  a web developer
                                       👯 I’m looking for job in web development
                                       💬 I have done projects using vanilla js, React js, Express , mongo db.
-                                      
+                                          Go through my repository to know more about my projects.
 
 
 
