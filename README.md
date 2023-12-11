@@ -2,10 +2,10 @@
 
 
                                       ### Hi there I am GNANAM RAJAGOPALAN 👋
-                                      🔭 I’m currently working on NODE JS
-                                      👯 I’m looking to collaborate WITH WEB DEVELOPERS
-                                      💬 Ask me about WEB DEVELOPMENT
-                                      📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gnanam-r/)
+                                      🔭 I’m  a web developer
+                                      👯 I’m looking for job in web development
+                                      💬 I have done projects using vanilla js, React js, Express , mongo db.
+                                      
 
 
 
